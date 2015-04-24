@@ -13,6 +13,7 @@ Note that these client libraries have not been security tested by Marketo. If yo
 
 ## Community Supported Client Libraries  
 
+* [Ruby gem for REST API developed by raszi](https://github.com/raszi/mrkt)
 * [Ruby gem for SOAP API developed by ClearFit](https://github.com/ClearFit/marketo-api-ruby)
 * [Ruby gem for SOAP API developed by Rapleaf](https://github.com/Rapleaf/marketo_gem)
 * [Ruby gem for SOAP API developed by David Santoso](https://github.com/davidsantoso/markety)
